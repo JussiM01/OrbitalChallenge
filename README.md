@@ -1,2 +1,2 @@
 # OrbitalChallenge
-My solution to Reaktors Orbital Challenge
+My solution to Reaktor's Orbital Challenge
